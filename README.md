@@ -15,4 +15,4 @@ this project uses [n8n](https://n8n.io/) to build a simple AI agent that integra
 
 ### workflow screenshot:
 
-![n8n Workflow](assets/screenshot.png)
+![n8n Workflow](assets/n8n-workflow.png)
